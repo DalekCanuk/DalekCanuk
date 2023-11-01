@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DalekCanuk
+- 👀 I’m interested in SiFi in general and 3D printing
+- 🌱 I’m currently learning how to use octprint
+- 💞️ I’m looking to collaborate where i can
+- 📫 How to reach me ...
